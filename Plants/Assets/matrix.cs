@@ -8,7 +8,7 @@ public class matrix : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        coords = new int[9,5];
+        delete *int[9,5];
         for(int i=0; i < 9; i++)
         {
             for(int j = 0; j < 5; j++)
